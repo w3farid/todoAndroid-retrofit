@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="save">Save</string>
+    <string name="saved_success_msg">Saved Successfully</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">First Fragment</string>
+    <string name="hello_blank_fragment2">Second Fragment</string>
+
+</resources>
